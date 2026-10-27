@@ -1,0 +1,10 @@
+# PDF e file generati
+/output/
+*.pdf
+*.log
+*.tmp
+*.aux
+*.synctex.gz
+
+# Cache
+/.typst/
